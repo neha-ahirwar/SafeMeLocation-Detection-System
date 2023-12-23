@@ -1,4 +1,5 @@
-# SafeMeLocation-Detection-System—”SafeMe” represents an innovative response to the
+# SafeMeLocation-Detection-System
+”SafeMe” represents an innovative response to the
 pressing need for enhancing women’s safety by harnessing the
 capabilities of Arduino technology. This project introduces an
 advanced security system that seamlessly integrates cutting-edge
